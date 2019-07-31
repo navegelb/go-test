@@ -7,7 +7,7 @@ import (
 func main() {
 	x := 0
 	for x < 10 {
-		fmt.Println(x+1)
+		fmt.Println(x)
 		x++
 	}
 }
