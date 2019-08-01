@@ -6,7 +6,7 @@ import (
 
 func main() {
 	x := 0
-	for x < 10 {
+	for x < 9 {
 		fmt.Println(x)
 		x++
 	}
